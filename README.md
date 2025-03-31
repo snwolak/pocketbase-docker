@@ -10,7 +10,7 @@
 ![Docker ARM64](https://img.shields.io/badge/arm64-grey?logo=&logoColor=%23ffffff&style=for-the-badge)
 ![Docker arm v7](https://img.shields.io/badge/arm%20v7-grey?logo=&logoColor=%23ffffff&style=for-the-badge)
 
-Pulling `spectado/pocketbase:latest` will retrieve the correct image for your arch.
+Pulling `snwolak/pocketbase:latest` will retrieve the correct image for your arch.
 
 ## Application Setup
 
@@ -56,7 +56,7 @@ This docker image is a build of [pocketbase.io - Open Source backend for your ne
 version: "3.7"
 services:
   pocketbase:
-    image: spectado/pocketbase:latest
+    image: snwolak/pocketbase:latest
     container_name: pocketbase
     restart: unless-stopped
     ports:
