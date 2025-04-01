@@ -1,8 +1,8 @@
 # Docker version of PocketBase - backend for your next SasS and Mobile App
 
 ![GitHub release (latest by date)](https://img.shields.io/github/v/release/pocketbase/pocketbase?logo=github&logoColor=%23ffffff&style=for-the-badge)
-![Docker Image Version (latest by date)](https://img.shields.io/docker/v/spectado/pocketbase?logo=docker&logoColor=%23ffffff&style=for-the-badge)
-![Docker Image Size (tag)](https://img.shields.io/docker/image-size/spectado/pocketbase/latest?logo=docker&logoColor=%23ffffff&style=for-the-badge)
+![Docker Image Version (latest by date)](https://img.shields.io/docker/v/snwolak/pocketbase?logo=docker&logoColor=%23ffffff&style=for-the-badge)
+![Docker Image Size (tag)](https://img.shields.io/docker/image-size/snwolak/pocketbase/latest?logo=docker&logoColor=%23ffffff&style=for-the-badge)
 
 ## Supported Architectures
 
